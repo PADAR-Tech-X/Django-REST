@@ -1,2 +1,2 @@
 ---
-- A simple django app that uses the Django REST framework to work with APIs
+- A simple django application that implements the Django REST framework to work with APIs
